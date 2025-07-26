@@ -1,18 +1,17 @@
 <h1 align="center">👋 Hey, I'm Mruthun V</h1>
 <p align="center">
-  💻 AIML Student | 🧠 Deep Learning Explorer |  
+  💻 AIML Student | 🧠 Deep Learning Explorer
 </p>
 
 ---
 
 ### 🚀 About Me
 
-- 🎓 Pursuing B.Tech in AI & Machine Learning at SRM University, Ramapuram
-- 🔭 Currently building: **FinAI** – An AI-powered financial guardian for Gen Z
+- 🎓 B.Tech in AI & ML @ SRM University, Ramapuram (2023–2027)
+- 🔭 Currently building: **FinAI** – AI-powered financial guardian for Gen Z
 - 🌱 Learning: Machine Learning, Streamlit, React, Deep Learning
-- ✍️ Writing clean code and crafting smart financial tools
-- 📫 Email: mruthun.vijaymanickaraja@gmail.com
-- 💼 LinkedIn: [mruthun-v](https://www.linkedin.com/in/mruthun-v-61725929b)
+- 📫 Reach me: mruthun.vijaymanickaraja@gmail.com
+- 💼 [LinkedIn Profile](https://www.linkedin.com/in/mruthun-v-61725929b)
 
 ---
 
@@ -33,7 +32,7 @@
 
 - 🔍 Classifies expenses, income, transfers
 - 📈 Dashboard view for spend analysis
-- 🛡️ Future: subscription alerts, spend prediction, and export to CSV
+- 🛡️ Future: subscription alerts, spend prediction, export to CSV
 
 ---
 
@@ -46,7 +45,15 @@
 
 ---
 
-### 🧠 Currently Learning
+### 📈 Most Used Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mruthun775&layout=compact&theme=radical" width="50%" />
+</p>
+
+---
+
+### 📚 Currently Learning
 
 - Machine Learning Algorithms (Andrew Ng)
 - React JS for UI development
@@ -55,4 +62,3 @@
 ---
 
 _“The best way to predict the future is to invent it.” — Alan Kay_
-
