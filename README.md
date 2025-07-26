@@ -1,16 +1,58 @@
-## Hi there 👋
+<h1 align="center">👋 Hey, I'm Mruthun V</h1>
+<p align="center">
+  💻 AIML Student | 🧠 Deep Learning Explorer |  
+</p>
 
-<!--
-**Mruthun775/Mruthun775** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 Pursuing B.Tech in AI & Machine Learning at SRM University, Ramapuram
+- 🔭 Currently building: **FinAI** – An AI-powered financial guardian for Gen Z
+- 🌱 Learning: Machine Learning, Streamlit, React, Deep Learning
+- ✍️ Writing clean code and crafting smart financial tools
+- 📫 Email: mruthun.vijaymanickaraja@gmail.com
+- 💼 LinkedIn: [mruthun-v](https://www.linkedin.com/in/mruthun-v-61725929b)
+
+---
+
+### 🛠️ Tech Stack
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-003B57?style=for-the-badge&logo=mysql&logoColor=white)
+![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+### 📌 Featured Projects
+
+#### 💸 [FinAI - Smart Transaction Categorizer](https://github.com/Mruthun775/finai-smart-finance)
+> A Streamlit app that reads SMS messages and classifies financial transactions using ML.
+
+- 🔍 Classifies expenses, income, transfers
+- 📈 Dashboard view for spend analysis
+- 🛡️ Future: subscription alerts, spend prediction, and export to CSV
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mruthun775&show_icons=true&theme=radical" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mruthun775&theme=radical" width="48%" />
+</p>
+
+---
+
+### 🧠 Currently Learning
+
+- Machine Learning Algorithms (Andrew Ng)
+- React JS for UI development
+- Natural Language Processing for SMS analysis
+
+---
+
+_“The best way to predict the future is to invent it.” — Alan Kay_
+
