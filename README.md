@@ -47,9 +47,17 @@
 
 ### 📈 Most Used Languages
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mruthun775&layout=compact&theme=radical&langs_count=10&exclude_repo=finai-smart-finance" width="50%" />
-</p>
+Here are the languages I commonly work with:
+
+- **Python**
+- **SQL**
+- **JavaScript**
+- **HTML**
+- **CSS**
+- **TypeScript**
+- **React**
+- **Node.js**
+- **Jupyter**
 
 ---
 
