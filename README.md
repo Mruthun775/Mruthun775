@@ -48,7 +48,7 @@
 ### 📈 Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mruthun775&layout=compact&theme=radical" width="50%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mruthun775&layout=compact&theme=radical&langs_count=10&exclude_repo=finai-smart-finance" width="50%" />
 </p>
 
 ---
