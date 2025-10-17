@@ -63,13 +63,7 @@
 
 ---
 
-### 🐉 Watch the Dragon Guard the Code
 
-<p align="center">
-  <img src="https://media.giphy.com/media/26AHG5KGFxSkUWw1i/giphy.gif" width="600" alt="Dragon Animation" />
-</p>
-
----
 
 ### 🧠 Currently Evolving In
 
