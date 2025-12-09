@@ -52,6 +52,12 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mruthun775&theme=react-dark&hide_border=true&area=true" width="95%" alt="activity graph"/>
 </div>
 
+<div align="center">
+  <h2>🐍 GitHub Contributions 🐍</h2>
+  <br/>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Mruthun775/Mruthun775/output/github-contribution-grid-snake-dark.svg" />
+  <br/><br/>
+</div>
 
 
 
