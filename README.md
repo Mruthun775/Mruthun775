@@ -21,7 +21,7 @@
   <a href="https://www.linkedin.com/in/mruthun-v-61725929b">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://mruthunv.vercel.app/">
+  <a href="https://code-curious-glow.lovable.app">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" /> 
   </a>
 </div>
