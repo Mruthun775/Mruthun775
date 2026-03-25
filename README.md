@@ -49,7 +49,7 @@
   <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mruthun775&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10" alt="top langs" />
   
   <br/><br/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mruthun775&theme=react-dark&hide_border=true&area=true" width="95%" alt="activity graph"/>
+
 </div>
 
 <div align="center">
